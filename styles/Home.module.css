@@ -5,6 +5,8 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+ 
+
 }
 
 .description {
@@ -275,4 +277,4 @@
   to {
     transform: rotate(0deg);
   }
-}
+} 
